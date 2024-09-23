@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "new task description",
+        "status": "in-progress",
+        "createdAt": "2024-09-23T15:50:25.653904",
+        "updatedAt": "2024-09-23T15:52:47.135909"
+    },
+    {
+        "id": 2,
+        "description": "task2",
+        "status": "todo",
+        "createdAt": "2024-09-23T15:51:11.135084",
+        "updatedAt": "2024-09-23T15:51:11.135084"
+    },
+    {
+        "id": 4,
+        "description": "task4",
+        "status": "todo",
+        "createdAt": "2024-09-23T15:51:24.785421",
+        "updatedAt": "2024-09-23T15:51:24.785421"
+    },
+    {
+        "id": 5,
+        "description": "task5",
+        "status": "done",
+        "createdAt": "2024-09-23T15:51:28.266654",
+        "updatedAt": "2024-09-23T15:53:04.183873"
+    }
+]
