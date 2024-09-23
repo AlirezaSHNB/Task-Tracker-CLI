@@ -1,10 +1,14 @@
 **Python Version :**
+
 python3 main.py
+
 **Ruby Version:**
+
 ruby main.rb
 
 commands :
 
+```
 Task Tracker CLI is running.
 Type 'help' to see available commands or 'exit' to quit.
 >> add Buy groceries
@@ -21,6 +25,7 @@ ID: 1 | Description: Buy groceries and cook dinner | Status: in-progress
 Task 1 deleted successfully
 >> exit
 Exiting Task Tracker CLI.
+```
 
 
 project page : https://roadmap.sh/projects/task-tracker
